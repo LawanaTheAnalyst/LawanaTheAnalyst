@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Lawana 👋
+**Data Analyst | SQL • Excel • Tableau • Python**
 
-<!--
-**LawanaTheAnalyst/LawanaTheAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio! I’m transitioning into Data Analytics after 21+ years in healthcare, bringing strong problem-solving and process improvement skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Featured Projects
+- [SQL Projects](https://github.com/LawanaTheAnalyst/sql-projects)  
+- [Excel Project](https://github.com/LawanaTheAnalyst/excel-project)  
+- [Tableau Dashboard](https://github.com/LawanaTheAnalyst/tableau-project)  
+- [Python Project](https://github.com/LawanaTheAnalyst/python-project)  
+
+---
+
+## 🔹 About Me
+- 🏥 Background: 21 years in healthcare (surgical services)  
+- 📊 Passion: Turning messy data into actionable insights  
+- 🌟 Goal: Data Analyst role in healthcare analytics or business intelligence  
+
+---
+
+## 🔹 Connect With Me
+- 🌐 [My Website](https://yourwebsite.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lawana-robinson)  
