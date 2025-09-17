@@ -9,7 +9,7 @@ Welcome to my portfolio! I’m transitioning into Data Analytics after 21+ years
 - [SQL Projects](https://github.com/LawanaTheAnalyst/sql-projects)  
 - [Excel Project](https://github.com/LawanaTheAnalyst/excel-project)  
 - [Tableau Dashboard](https://github.com/LawanaTheAnalyst/tableau-project)  
-- [Python Project](https://github.com/LawanaTheAnalyst/python-project)  
+- [Power BI Project](https://github.com/LawanaTheAnalyst/power-bi-project)  
 
 ---
 
